@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SecureEmailOutlookAddIn.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="addInDebug" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="organizationName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">IT</Value>
+    </Setting>
+    <Setting Name="secureEmailSendLiteral" Type="System.String" Scope="User">
+      <Value Profile="(Default)">[SEND SECURE]</Value>
+    </Setting>
+    <Setting Name="secureEmailSendEmailOnButtonClick" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="secureEmailSendConfirmation" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
